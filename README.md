@@ -4,20 +4,15 @@
  #### Contact me
 <!-- png icons from https://iconscout.com/ -->
 
-<a href="https://telegram.me/itz_Sadew" target="blank"><img align="center" src="https://telegra.ph/file/26d2289b53f2b5f183a49.png" alt="shamilnelli" height="30" width="30" /></a>
-<a href="https://instagram.com/slsadewbro1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sadew Jayasekara" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/SADEWj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UClP0fw_t0lOU1mYuL7gEa2g" height="30" width="40" /></a>
-<a href="https://sadewofficial45@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail--v2.png" alt="Sadew Jayasekara" height="30" width="40" /></a>
-<a href="https://fb.com/SADEWJ45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="SADEWJ" height="30" width="40" /></a>
-<a href="https://twitter.com/Sadew_J" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sadew Jayasekara" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/SadewJayasekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sadew Jayasekara" height="30" width="40" /></a>
- 
+<a href="https://telegram.me/blackswordsmanofffical" target="blank"><img align="center" src="https://telegra.ph/file/26d2289b53f2b5f183a49.png" alt="shamilnelli" height="30" width="30" /></a>
+<a href="https://instagram.com/blackswordsmanoffical" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Salith Randika" height="30" width="40" /></a>
+<a href="https://salithrandika2006@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail--v2.png" alt="Salith Randika" height="30" width="40" /></a>
  #####
 
 <details>
   <summary> Github Stats </summary>
   <br/>
-<p align="left"> <a href="https://github.com/Sadew451"><img src="https://github-profile-trophy.vercel.app/?username=Sadew451&no-bg=true" alt="SADEW" /></a> </p>
+<p align="left"> <a href="https://github.com/Salithrandika"><img src="https://github-profile-trophy.vercel.app/?username=Salithrandika&no-bg=true" alt="SALITH" /></a> </p>
 </details>
 
 # 📊 Status
@@ -44,24 +39,16 @@
 
 ## Contribution Graph 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sadew451&theme=highcontrast" alt="Sadew451" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Salithrandika&theme=highcontrast" alt="Salithrandika" /></p>
 
 ### Contribution Graph:
 
 <p align="center">
     <img
         width="100%"
-        src="https://activity-graph.herokuapp.com/graph?username=Sadew451&custom_title=Contribution+Graph&theme=xcode"
+        src="https://activity-graph.herokuapp.com/graph?username=Salithrandika&custom_title=Contribution+Graph&theme=xcode"
     />
 </p>
 
-
-> MOST USED LANGUAGES
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sadew451&show_icons=true&layout=compact&theme=highcontrast" alt="Sadew451" /></p>
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Sadew451)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/SadewJayasekara/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/Sadew_Jayasekara/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](SadewJa:SadewOfficial45@gmail.com)
+om)
       
