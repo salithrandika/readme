@@ -39,14 +39,14 @@
 
 ## Contribution Graph 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Salithrandika&theme=highcontrast" alt="Salithrandika" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salithrandika&theme=highcontrast" alt="salithrandika" /></p>
 
 ### Contribution Graph:
 
 <p align="center">
     <img
         width="100%"
-        src="https://activity-graph.herokuapp.com/graph?username=Salithrandika&custom_title=Contribution+Graph&theme=xcode"
+        src="https://activity-graph.herokuapp.com/graph?username=salithrandika&custom_title=Contribution+Graph&theme=xcode"
     />
 </p>
 
